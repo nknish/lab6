@@ -2,3 +2,7 @@ name = input("enter your name ")
 age = input("enter your age ")
 
 print("your name is " + name + " your age is " + age)
+
+if age > 60:
+  print("WOW! You're old")
+
