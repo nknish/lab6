@@ -1,3 +1,4 @@
-name = prompt("enter your name")
+name = prompt("enter your name ")
+age = prompt("enter your age ")
 
-print("your name is " + name)
+print("your name is " + name + " your age is " + age)
